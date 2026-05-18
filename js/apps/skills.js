@@ -40,7 +40,7 @@ function renderCategoryContent(cat) {
   if (cat.download) {
     return `<div class="settings-content" data-content="${cat.id}">
       <div class="settings-content-header">${cat.icon} ${cat.label}</div>
-      <a href="public/resume.pdf" class="settings-download">Download Resume (PDF)</a>
+      <a href="public/JasonLiResume.pdf" class="settings-download">Download Resume (PDF)</a>
     </div>`;
   }
   return '';

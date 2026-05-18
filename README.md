@@ -116,7 +116,7 @@ js/
     snake.js            — Snake app launcher
 public/
     headshot.jpg        — Profile photo
-    resume.pdf          — Resume PDF
+    JasonLiResume.pdf   — Resume PDF
     JasonLiTranscript.pdf
     fresh-apple-icon.webp
 ```

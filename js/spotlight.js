@@ -27,7 +27,7 @@ const searchItems = [
   // Links
   { type: 'link', name: 'GitHub', desc: 'github.com/jasonli2446', url: 'https://github.com/jasonli2446' },
   { type: 'link', name: 'LinkedIn', desc: 'linkedin.com/in/jasonli2446', url: 'https://linkedin.com/in/jasonli2446' },
-  { type: 'link', name: 'Resume', desc: 'Download PDF', url: 'public/resume.pdf' },
+  { type: 'link', name: 'Resume', desc: 'Download PDF', url: 'public/JasonLiResume.pdf' },
   { type: 'link', name: 'Email', desc: 'jasonli2446@gmail.com', url: 'mailto:jasonli2446@gmail.com' },
 ];
 
